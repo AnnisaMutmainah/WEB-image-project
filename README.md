@@ -1,2 +1,2 @@
-# WEB-image-project
-image for blog
+# WEB-project
+web blog
